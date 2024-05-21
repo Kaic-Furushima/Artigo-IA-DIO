@@ -19,9 +19,9 @@ O que Você Vai Precisar:
 
 Primeiro, você precisa instalar o JDK. Procure por "JDK download" no Google, baixe e instale no seu computador. Isso é importante para poder escrever e executar código em Java.
 
-## Instalar o Minecraft Forge
+## Instalar o Forge
 
-O Forge é uma ferramenta que ajuda a criar e rodar mods. Visite o site oficial do Minecraft Forge e baixe a versão que corresponde à versão do seu Minecraft. Depois, instale o Forge. 
+O Forge é uma ferramenta que ajuda a criar e rodar mods. Visite o site oficial do Forge e baixe a versão que corresponde à versão do seu Minecraft.
 
 ## Crie uma pasta para o seu projeto 
 - Dê um nome legal, tipo "MeusPrimeirosMods".
