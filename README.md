@@ -21,6 +21,7 @@ ChatGPT：
 Lexica.art：
 
 No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
+
 • Minecraft
 
 ## ✨ Features
