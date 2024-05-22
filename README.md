@@ -1,7 +1,7 @@
 # Projeto Artigo Gerado por IAs
 Projeto com o objetivo de gerar um artigo com as facilidades das ferramentas de IA. 
 
-<a href="https://github.com/Kaic-Furushima/Artigo-IA-DIO/blob/main/artigo/artigo.md" title="View now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Kaic-Furushima/Artigo-IA-DIO/blob/main/Artigo-DIO/artigo.md" title="View now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
